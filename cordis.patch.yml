@@ -1,0 +1,3 @@
+- insert:
+    - id: transcript-width-lock
+      name: 'dsh-transcript-width-lock'

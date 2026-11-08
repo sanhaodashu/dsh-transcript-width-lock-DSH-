@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "title": "Transcript width lock",
+    "description": "Makes the two transcript-width handles visible and lets you lock them so selecting text never changes the reading width."
+  },
+  "settings": {
+    "section": "General",
+    "lock.title": "Lock transcript width handles",
+    "lock.description": "While on, the two width handles beside the transcript cannot be dragged, so selecting text never changes the reading width.",
+    "lock.on": "On",
+    "lock.off": "Off"
+  }
+}
