@@ -12,10 +12,17 @@
     "resize-lock"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "sanhaodashu",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/sanhaodashu/dsh-transcript-width-lock.git"
+  },
+  "homepage": "https://github.com/sanhaodashu/dsh-transcript-width-lock#readme",
+  "bugs": {
+    "url": "https://github.com/sanhaodashu/dsh-transcript-width-lock/issues"
+  },
+  "engines": {
+    "node": ">=20"
   },
   "exports": {
     ".": "./index.js",
@@ -29,8 +36,8 @@
     "cordis.patch.yml",
     "locale/*.json",
     "icon.svg",
+    "assets/banner.svg",
     "README.md",
-    "README_ZH.md",
     "LICENSE"
   ],
   "dsh": {
